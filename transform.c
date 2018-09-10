@@ -7,7 +7,7 @@ void main()
     char c = 'a';
     float f = 5.3;
     double m = 12.65;
-   double result;
+    double result;
    
    /*同类型数据间进行运算并输出结果*/
     printf("a + c = %d\n", a + c);
